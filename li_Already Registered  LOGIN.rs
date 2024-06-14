@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Already Registered  LOGIN</name>
+   <tag></tag>
+   <elementGuidId>1cd78dad-5883-4f50-b149-4c3404e97a8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.old.resp-tab-item.hor_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='stab']/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Already Registered / LOGIN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c6eb146f-7542-41f0-8964-ea3dd57e8aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>old resp-tab-item hor_1</value>
+      <webElementGuid>71f088ff-f098-4e5c-8a66-f39056488a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>hor_1_tab_item-1</value>
+      <webElementGuid>c266f5f8-aed1-41fd-9460-aa63a382bdc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>7b140294-812d-4757-a495-9b91f5a20ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Already Registered / LOGIN</value>
+      <webElementGuid>49af0855-694c-4837-ad79-9421dbc3b7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stab&quot;)/ul[@class=&quot;resp-tabs-list hor_1&quot;]/li[@class=&quot;old resp-tab-item hor_1&quot;]</value>
+      <webElementGuid>e02f0083-b8d4-4395-901d-d1c8ddd2fc11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stab']/ul/li[2]</value>
+      <webElementGuid>a803bc41-0b36-47eb-a65a-6f33d6acb355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Registration'])[1]/following::li[1]</value>
+      <webElementGuid>5606953c-8a4e-4b10-b920-c2cb70f64309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Registration Form'])[1]/following::li[2]</value>
+      <webElementGuid>0bbfeb04-7f73-4387-a669-f931803ab67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Registration'])[2]/preceding::li[1]</value>
+      <webElementGuid>fb1716c4-918b-4540-b144-5189f725ba7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Already Registered / LOGIN']/parent::*</value>
+      <webElementGuid>ac1f5c47-99e9-4ce2-b594-3fc0115b0cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[2]</value>
+      <webElementGuid>27725677-8c14-4bdf-9e3d-71da048730bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Already Registered / LOGIN' or . = 'Already Registered / LOGIN')]</value>
+      <webElementGuid>e2a8e881-d587-431c-8478-682816dd0105</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

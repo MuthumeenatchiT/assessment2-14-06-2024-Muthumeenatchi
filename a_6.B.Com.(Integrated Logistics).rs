@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_6.B.Com.(Integrated Logistics)</name>
+   <tag></tag>
+   <elementGuidId>594eb573-7e6b-4ee4-8433-a7b2987ecf09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-daudo-subtheme-content']/div/article/div/div[2]/div[6]/dl/dt/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;6.B.Com.(Integrated Logistics)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef729154-89a0-45ab-aedb-e878611e2608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ckeditor-accordion-toggler</value>
+      <webElementGuid>14776e1c-1448-4de8-b6fd-2d3d67cae3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e6f8fd5e-18dc-48b4-b23d-04979ff3316a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6.B.Com.(Integrated Logistics)</value>
+      <webElementGuid>e3c88300-478a-4e88-9419-c195bc92d2ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-daudo-subtheme-content&quot;)/div[@class=&quot;content block-content&quot;]/article[@class=&quot;node node--type-page-basic node--promoted node--view-mode-full clearfix&quot;]/div[@class=&quot;node__content clearfix&quot;]/div[@class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;]/div[@class=&quot;ckeditor-accordion-container&quot;]/dl[@class=&quot;styled&quot;]/dt[@class=&quot;active&quot;]/a[@class=&quot;ckeditor-accordion-toggler&quot;]</value>
+      <webElementGuid>3c49e9bd-9bb2-45c5-8f37-4784a0bc045a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-daudo-subtheme-content']/div/article/div/div[2]/div[6]/dl/dt/a</value>
+      <webElementGuid>50e406b9-dfb8-48e6-b9b8-944bb00cd44c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'6.B.Com.(Integrated Logistics)')]</value>
+      <webElementGuid>00abb4bd-97d8-4431-8f30-9a5cba5caf01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syllabus with effect from 2016-17 onwards'])[2]/following::a[1]</value>
+      <webElementGuid>8dc500cd-dad4-48e6-9ea5-df43d12234b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syllabus with effect from 2016-17 onwards'])[1]/following::a[3]</value>
+      <webElementGuid>e9c3f9ff-5e33-4987-94d2-2a40dc75fb68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revised Scheme with effect from 2016-17 onwards'])[1]/preceding::a[1]</value>
+      <webElementGuid>9cb9f629-24bc-4a32-bb8e-5e53670c2258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syllabus with effect from 2016-17 onwards'])[3]/preceding::a[2]</value>
+      <webElementGuid>7a45148c-feb0-406d-a951-3ca250186b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='6.B.Com.(Integrated Logistics)']/parent::*</value>
+      <webElementGuid>b71d8707-906d-4482-83cb-4cd8e5baa42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[10]</value>
+      <webElementGuid>84d2d3f7-0582-4441-9b64-2e308cf9fce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/dl/dt/a</value>
+      <webElementGuid>28c7a98f-d161-4324-99b2-74190fe2e8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '6.B.Com.(Integrated Logistics)' or . = '6.B.Com.(Integrated Logistics)')]</value>
+      <webElementGuid>3208051e-22e9-4dd4-9235-8e4dd4a4816b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

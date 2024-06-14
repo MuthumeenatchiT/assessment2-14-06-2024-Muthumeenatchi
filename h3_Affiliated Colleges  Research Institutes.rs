@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Affiliated Colleges  Research Institutes</name>
+   <tag></tag>
+   <elementGuidId>4525c6fc-1351-4a61-a679-b4875b304dbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='services']/div[2]/ul/li[4]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Affiliated Colleges &amp; Research Institutes&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>c729aa37-2f99-47db-88f9-1aa2ee31627c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Affiliated Colleges &amp; Research Institutes</value>
+      <webElementGuid>e830317b-573e-441d-a1dc-1ce5124122eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;services&quot;)/div[@class=&quot;content1&quot;]/ul[@class=&quot;cards&quot;]/li[@class=&quot;card&quot;]/h3[1]</value>
+      <webElementGuid>eea8f2ea-e8b1-4222-87c2-942c173a5b5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='services']/div[2]/ul/li[4]/h3</value>
+      <webElementGuid>34b8f5f6-08fe-4cdd-b898-a9460b13db6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[3]/following::h3[1]</value>
+      <webElementGuid>b50b3920-0e5d-419b-9528-2def12dc2310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='University Department Student Fees'])[1]/following::h3[1]</value>
+      <webElementGuid>9afa3546-e3c6-4285-acc2-4c6a3efc1638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Research Admission )'])[1]/preceding::h3[1]</value>
+      <webElementGuid>3f66ce7e-90c1-4110-9df7-3a9873f2cb37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[4]/preceding::h3[2]</value>
+      <webElementGuid>c7a313fd-f2ba-40bc-8be7-67d8473e1da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Affiliated Colleges &amp; Research Institutes']/parent::*</value>
+      <webElementGuid>69f7805d-1274-4462-84dc-ca42cf7cb407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/h3</value>
+      <webElementGuid>3fa48cce-577e-4c51-bbe3-3c9b18ac65c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Affiliated Colleges &amp; Research Institutes' or . = 'Affiliated Colleges &amp; Research Institutes')]</value>
+      <webElementGuid>77be3649-3847-48c5-b1a0-c8096c9e61a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

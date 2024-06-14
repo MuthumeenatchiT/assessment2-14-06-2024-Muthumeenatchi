@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Industry Relevant Courses</name>
+   <tag></tag>
+   <elementGuidId>f77dfd23-be5a-4cca-bfdf-510a9a2613ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='block-cuic']/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Industry Relevant Courses &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>841c7ddf-8dcf-4e0a-ae9f-ce54ad87322b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/142/industry-relevant-courses</value>
+      <webElementGuid>9251be5b-d674-4671-862c-ec260f35b1b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>node/752</value>
+      <webElementGuid>98285ad4-8bfc-41d2-9b8a-fe6a5cf85749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Industry Relevant Courses</value>
+      <webElementGuid>f9646162-e85b-4c28-b7e7-db56c6b1ab30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-cuic&quot;)/div[@class=&quot;block-content&quot;]/ul[@class=&quot;gva_menu&quot;]/li[@class=&quot;menu-item&quot;]/a[1]</value>
+      <webElementGuid>2cf2de01-ed81-45a0-b6c2-764d4d021f3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='block-cuic']/div/ul/li[4]/a</value>
+      <webElementGuid>e825c8e4-714f-49c7-adec-ea822ff69739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Industry Relevant Courses')]</value>
+      <webElementGuid>28c1ccc3-08b2-4da1-95e2-73a1ebf7af7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sectors Skills Councils Association'])[2]/following::a[1]</value>
+      <webElementGuid>bbeb8c17-3d35-4300-be51-8835a0cd4927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industry Institute Partnership'])[1]/following::a[2]</value>
+      <webElementGuid>4248e3c3-2efc-4912-85bc-6ae0a586a40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Placement Service Cell'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d2740dc-c051-4a73-87ce-9bd841491ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downloads'])[1]/preceding::a[2]</value>
+      <webElementGuid>eb0f1d34-3b91-4db9-abff-f9acdf7ae1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Industry Relevant Courses']/parent::*</value>
+      <webElementGuid>16c2318c-628e-48ed-9e11-e75190db8390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/142/industry-relevant-courses')])[2]</value>
+      <webElementGuid>cdf1593b-cac9-492a-afcb-3e54595235d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[4]/a</value>
+      <webElementGuid>657d32ef-5fcd-4d14-a6be-d977d7a2b491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/142/industry-relevant-courses' and (text() = 'Industry Relevant Courses' or . = 'Industry Relevant Courses')]</value>
+      <webElementGuid>1954032d-5dcb-48e0-8686-fe735aaebd83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

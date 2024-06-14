@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1. Diploma in Office Automation</name>
+   <tag></tag>
+   <elementGuidId>34c6c560-170e-4896-a8bc-20ab00bf8ec6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ckeditor-accordion-toggler</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-daudo-subtheme-content']/div/article/div/div[2]/div/dl/dt/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;1. Diploma in Office Automation&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>84c76e2f-b526-422a-9222-815682b93de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ckeditor-accordion-toggler</value>
+      <webElementGuid>983b03de-d066-423a-8dff-8618b392916e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>0a20d7c0-8b4c-4352-8f8f-230f7d07d87a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. Diploma in Office Automation</value>
+      <webElementGuid>bd9840eb-6c43-48f0-9543-894b00245cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-daudo-subtheme-content&quot;)/div[@class=&quot;content block-content&quot;]/article[@class=&quot;node node--type-page-basic node--promoted node--view-mode-full clearfix&quot;]/div[@class=&quot;node__content clearfix&quot;]/div[@class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;]/div[@class=&quot;ckeditor-accordion-container&quot;]/dl[@class=&quot;styled&quot;]/dt[@class=&quot;active&quot;]/a[@class=&quot;ckeditor-accordion-toggler&quot;]</value>
+      <webElementGuid>88ffe452-b77e-4568-bc72-d2eb58acbe87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-daudo-subtheme-content']/div/article/div/div[2]/div/dl/dt/a</value>
+      <webElementGuid>c991b1c5-605f-4ae9-a6e7-8456d786b1d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'1. Diploma in Office Automation')]</value>
+      <webElementGuid>b1446ead-5d40-4146-9671-396ea6083854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campus Walk'])[1]/following::a[1]</value>
+      <webElementGuid>1ef4df63-1761-4cc9-9e93-68b3acc97b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bharathiar University Community Colleges Syllabus'])[1]/following::a[2]</value>
+      <webElementGuid>64bf4493-0c1b-4797-9345-9e1f0f19fe37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::a[1]</value>
+      <webElementGuid>05a85537-fd56-4d1d-8bda-a4016c26925a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[2]/preceding::a[3]</value>
+      <webElementGuid>59556e2d-8adc-4fa6-8fae-8f92c543627d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1. Diploma in Office Automation']/parent::*</value>
+      <webElementGuid>25652d4d-fb5a-472e-b9f4-3f74d9ba4ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>f5c40aae-9a89-4c8e-beab-23712aae4d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dt/a</value>
+      <webElementGuid>50688ae3-1e81-47b3-99d0-f1476000fd0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '1. Diploma in Office Automation' or . = '1. Diploma in Office Automation')]</value>
+      <webElementGuid>8af56022-5395-46b9-924b-5c7b8b1dffbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

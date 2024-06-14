@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Controller of Examination</name>
+   <tag></tag>
+   <elementGuidId>73601868-f3d3-43d1-ac90-dc7912cbcd85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='block-enquirynumbermenus']/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Controller of Examination &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>66e66499-6cd3-4bee-8609-04570aee3c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/179/controller-examination</value>
+      <webElementGuid>7b350a84-7e89-4b0c-8143-caebc0aa4518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>node/1325</value>
+      <webElementGuid>d1fd3171-50d6-4699-82ec-530acb5a584a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Controller of Examination</value>
+      <webElementGuid>5dc7c58e-c721-4fbb-940d-2b0ca4629baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-enquirynumbermenus&quot;)/div[@class=&quot;block-content&quot;]/ul[@class=&quot;gva_menu&quot;]/li[@class=&quot;menu-item&quot;]/a[1]</value>
+      <webElementGuid>e269fc95-ec38-4674-a525-810feb4fdf7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='block-enquirynumbermenus']/div/ul/li[4]/a</value>
+      <webElementGuid>26048a76-2483-4848-b37f-a3deb548539e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Controller of Examination')])[2]</value>
+      <webElementGuid>bd2e6de9-2852-4740-9c77-78fd5af1afdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department Office'])[1]/preceding::a[1]</value>
+      <webElementGuid>d8ef1f5f-93ef-4fae-96b1-f3b05462d32f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Section'])[1]/preceding::a[2]</value>
+      <webElementGuid>58da04f6-f8e1-4cd9-ba5c-a9aa25552d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Controller of Examination']/parent::*</value>
+      <webElementGuid>30ddc77a-a0ed-467b-9bc2-35d676c7768f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/179/controller-examination')]</value>
+      <webElementGuid>10d31901-e8f9-4063-8b84-608bd00e08db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[4]/a</value>
+      <webElementGuid>aed2b361-7641-4396-bee4-0b4078993ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/179/controller-examination' and (text() = 'Controller of Examination' or . = 'Controller of Examination')]</value>
+      <webElementGuid>a2317ffe-7923-4f04-9a07-6bde21412b38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

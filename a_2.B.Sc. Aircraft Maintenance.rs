@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2.B.Sc. Aircraft Maintenance</name>
+   <tag></tag>
+   <elementGuidId>ced3d3f9-90aa-40f7-ad20-15b3ed9e456c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-daudo-subtheme-content']/div/article/div/div[2]/div[2]/dl/dt/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;2.B.Sc. Aircraft Maintenance&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df67ffca-38d8-4961-bf03-177ecab7ad88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ckeditor-accordion-toggler</value>
+      <webElementGuid>ce0307d5-43f8-40a3-b576-73f958a5708b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3c353fa9-0751-43c5-bfbb-6cd45e694080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2.B.Sc. Aircraft Maintenance</value>
+      <webElementGuid>543796ef-2f35-492c-ab68-d2c606fb88d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-daudo-subtheme-content&quot;)/div[@class=&quot;content block-content&quot;]/article[@class=&quot;node node--type-page-basic node--promoted node--view-mode-full clearfix&quot;]/div[@class=&quot;node__content clearfix&quot;]/div[@class=&quot;field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;]/div[@class=&quot;ckeditor-accordion-container&quot;]/dl[@class=&quot;styled&quot;]/dt[@class=&quot;active&quot;]/a[@class=&quot;ckeditor-accordion-toggler&quot;]</value>
+      <webElementGuid>674da103-0e14-48c9-80f3-ac45d0ea2cb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-daudo-subtheme-content']/div/article/div/div[2]/div[2]/dl/dt/a</value>
+      <webElementGuid>e7ef3914-a7ae-47a6-aa6d-7f5c2fd0adc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'2.B.Sc. Aircraft Maintenance')]</value>
+      <webElementGuid>fd7488f9-8784-43ba-b939-fac5e78e67fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syllabus with effect from 2013-2014 onwards'])[1]/following::a[1]</value>
+      <webElementGuid>a493309d-6e98-4643-af92-7856ac0f7f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campus Walk'])[1]/following::a[3]</value>
+      <webElementGuid>1e7cee4e-ae3d-48c3-aeac-c1a7da9f2e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syllabus with effect from 2014-2015 onwards'])[1]/preceding::a[1]</value>
+      <webElementGuid>72c5218a-4938-4ab3-b0d9-3ceceb82f953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syllabus with effect from 2015-16 onwards'])[1]/preceding::a[3]</value>
+      <webElementGuid>520cc61b-5e5b-4727-93d1-b8f1a5999db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2.B.Sc. Aircraft Maintenance']/parent::*</value>
+      <webElementGuid>08f65c86-8b87-434d-b57f-271d28211703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[6]</value>
+      <webElementGuid>e5e90e52-8537-41a3-9d7b-5cc76c5c6dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/dl/dt/a</value>
+      <webElementGuid>b31a7ee3-b20b-4673-a033-4114ee4f6779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '2.B.Sc. Aircraft Maintenance' or . = '2.B.Sc. Aircraft Maintenance')]</value>
+      <webElementGuid>e3759809-5768-48bd-b2ec-aab11b415f4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
